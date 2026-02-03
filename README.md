@@ -22,16 +22,15 @@ Vue, Node.js, Next.js, Maven, Spring Boot, MySQL, SQLite
 
 **Skill Levels:**  
 
-| Language    | Skill |
-| -------- | ------- |
-| Python  | █████████▌  85% |
-| C# | ███████▌░░  65% |
-| JavaScript    | █████████▌  85% |
-| MySQL/SQLite    | ████████░░  75% |
-| HTML    | ███████░░░  70% |
-| Java   | ███▌░░░░░░  30% |
-| C++    | ██▌░░░░░░░  20% |
-
+| Language      | Skill Bar       |
+|---------------|----------------|
+| Python        | >>>>>>>> 85% |
+| C#            | >>>>>>>  65% |
+| JavaScript    | >>>>>>>> 85% |
+| MySQL/SQLite  | >>>>>>>  75% |
+| HTML          | >>>>>>   70% |
+| Java          | >>>      30% |
+| C++           | >>       20% |
 
 ---
 
